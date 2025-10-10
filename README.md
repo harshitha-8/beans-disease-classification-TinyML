@@ -136,6 +136,33 @@ The model classifies bean leaf images into three categories with optimized accur
 - Confusion matrix
 - Per-class precision and recall
 
+### Model Performance Visualizations
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="results/result_1.png" alt="Training and Validation Accuracy" width="400"/><br/>
+      <b>Training and Validation Accuracy</b>
+    </td>
+    <td align="center">
+      <img src="results/result_2.png" alt="Training and Validation Loss" width="400"/><br/>
+      <b>Training and Validation Loss</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="results/result_3.png" alt="Confusion Matrix" width="400"/><br/>
+      <b>Confusion Matrix</b>
+    </td>
+    <td align="center">
+      <img src="results/result_4.png" alt="Sample Predictions" width="400"/><br/>
+      <b>Sample Predictions</b>
+    </td>
+  </tr>
+</table>
+
+For more detailed results and additional visualizations, see the [results](results/) directory.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
